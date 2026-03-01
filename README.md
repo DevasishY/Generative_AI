@@ -1,7 +1,7 @@
 # Generative AI Practice
 
 ## Goal
-My goal in this folder is to learn and implement core **generative modeling concepts** from scratch, understand the math behind them, and validate them through experiments in Jupyter notebooks.
+My goal in this folder is to learn and implement core **generative modeling concepts** from scratch, understand the math behind them.
 
 ## What this folder contains
 - `inversetransformsampling.ipynb`  
