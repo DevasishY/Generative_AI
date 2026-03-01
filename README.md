@@ -22,3 +22,9 @@ My goal in this folder is to learn and implement core **generative modeling conc
 - Normalizing flow basics
 - EM for latent/missing-variable problems
 - Practical PyTorch experimentation workflow
+
+## References
+
+Murphy, K. P. (2023).
+Probabilistic Machine Learning: Advanced Topics.
+Cambridge, MA: MIT Press.
