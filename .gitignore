@@ -1,0 +1,25 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and local runtime files
+*.log
+
+# Model checkpoints/artifacts
+checkpoint/
+
+# Local dataset files (keep folder structure, ignore raw data)
+data/MNIST/raw/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
